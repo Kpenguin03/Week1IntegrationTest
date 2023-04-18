@@ -1,5 +1,5 @@
 # Overview
-This is a simple Hello World
+This is a simple Hello World program created in C#
 
 I created this to demonstrate the use of vsCode github and C# integrated together. 
 
