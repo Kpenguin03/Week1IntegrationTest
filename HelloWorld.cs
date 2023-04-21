@@ -1,12 +1,23 @@
 using System;
-
-namespace HelloWorld
+ 
+namespace Krisst_Sandbox
 {
   class Program
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");    
+      SayHI();
+    }    
+   
+    static void SayHI()
+    {
+      Console.WriteLine("Hello World");
     }
-  }
+   
+    static void MyMethod()
+    {
+      // code to be executed
+    }
+   
+  }      
 }
