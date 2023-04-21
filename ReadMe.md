@@ -1,7 +1,7 @@
 # Overview
-This is a simple Hello World program created in C#
+This is a simple Hello World program created in Python and again in C#
 
-I created this to demonstrate the use of vsCode github and C# integrated together. 
+I created this to demonstrate the use of vsCode, github and Python integrated together. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
